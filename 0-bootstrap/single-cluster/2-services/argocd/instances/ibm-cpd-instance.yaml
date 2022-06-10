@@ -28,7 +28,7 @@ spec:
       - name: spec.license.license
         value: "Enterprise"
       - name: spec.storageClass
-        value: "ibm-spectrum-scale-csi-consistency-group"
+        value: "ibm-spectrum-scale-csi-consistency-group-cp4d"
   syncPolicy:
     automated:
       prune: true

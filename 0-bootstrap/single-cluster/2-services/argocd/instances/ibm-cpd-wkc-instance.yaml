@@ -32,7 +32,7 @@ spec:
       - name: spec.version
         value: 4.0.4
       - name: spec.storageClass
-        value: ibm-spectrum-scale-csi-consistency-group
+        value: ibm-spectrum-scale-csi-consistency-group-cp4d
       - name: spec.wkc_db2u_set_kernel_params
         value: "true"
       - name: spec.iis_db2u_set_kernel_params
